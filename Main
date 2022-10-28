@@ -7,6 +7,6 @@ elseif game.PlaceId == 7971864610 then
 elseif game.PlaceId == 10221675126 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/haboobies'))()
     elseif game.PlaceId == game.PlaceId then
-    print("NO GAME FOUND")
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/LOVE1'))()
     end
     
