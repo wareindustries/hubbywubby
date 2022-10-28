@@ -6,4 +6,5 @@ elseif game.PlaceId == 7971864610 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/bakwil'))()
 elseif game.PlaceId == 10221675126 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/haboobies'))()
+    end
     
