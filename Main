@@ -1,6 +1,6 @@
 if game.PlaceId == 7971878671 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/terrae'))()
-elseif game.PlaceId == 0 then
+elseif game.PlaceId == 8850993625 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/LOVE1'))()
 elseif game.PlaceId == 7971864610 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/bakwil'))()
