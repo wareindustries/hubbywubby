@@ -6,7 +6,7 @@ elseif game.PlaceId == 7971864610 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/bakwil'))()
 elseif game.PlaceId == 11506148664 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/haboobies'))()
-elseif game.PlaceId == 4895427362 then
+elseif game.PlaceId == 4837595186 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/bakwil'))()
     elseif game.PlaceId == 6037246466 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/hofensivettt'))()
@@ -14,5 +14,5 @@ elseif game.PlaceId == game.PlaceId then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/BASIC%20VIP'))()
     end
     
-    --update 1.1
+    --update 1.2
     
