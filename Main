@@ -10,6 +10,8 @@ elseif game.PlaceId == 4837595186 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/bakwil'))()
     elseif game.PlaceId == 6037246466 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/hofensivettt'))()
+        elseif game.PlaceId == 8731959711 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/Protected%20(86).lua'))()
 elseif game.PlaceId == game.PlaceId then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wareindustries/KKLLKKLL/main/BASIC%20VIP'))()
     end
